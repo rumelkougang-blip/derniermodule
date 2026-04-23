@@ -1,6 +1,6 @@
 # DERNIER MODULE DE L'ANNEE
 
-Ceci est un exerice donnée sur le denrier module.
+Ceci est un exercice donné sur le dernier module.
 
 ## Liste des ficheirs
 
