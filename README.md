@@ -6,4 +6,4 @@ Ceci est un exerice donnée sur le denrier module.
 
 - index
 - README
-- LICENCE.
+- LICENCE
